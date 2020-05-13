@@ -49,6 +49,10 @@
 		-webkit-text-size-adjust: none;
 	}
 
+
+#mama_tag{
+	color:green
+}
 /* Box Model */
 
 	*, *:before, *:after {
